@@ -1,1 +1,1 @@
-[FlexCard](https://morepozitiva.github.io/flex/?target=_blank)
+[FlexCard](https://morepozitiva.github.io/flex/)
